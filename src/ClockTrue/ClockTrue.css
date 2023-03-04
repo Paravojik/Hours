@@ -1,0 +1,23 @@
+.ClockTrue{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.ClockTrue__main{
+    width: 400px;
+    height: 10vh;
+    color: white;
+    background-color: rgb(60, 60, 60);
+    font-size: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+.toogleBtn__true{
+    width: 50px;
+    height: 50px;
+}
