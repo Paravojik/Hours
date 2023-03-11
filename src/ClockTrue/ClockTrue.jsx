@@ -1,7 +1,7 @@
 import './ClockTrue.css'
 import React from 'react';
-// import pause from '../img/pause.png'
-// import play from '../img/play.png'
+import pause from '../img/pause.png'
+import play from '../img/play.png'
 class ClockTrue extends React.Component{
     constructor(props){
         super(props)

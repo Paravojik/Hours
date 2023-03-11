@@ -1,4 +1,4 @@
-.Clock{
+.ClockTruev2{
     width: 100%;
     height: 20vh;
     display: flex;
@@ -6,7 +6,7 @@
     justify-content: space-between;
     flex-direction: column;
 }
-.Clock__main{
+.ClockTrue__main{
     width: 400px;
     height: 10vh;
     color: white;
@@ -17,7 +17,7 @@
     align-items: center;
     border-radius: 10px;
 }
-.toogleBtn{
+.toogleBtn__true{
     width: 50px;
     height: 50px;
     cursor: pointer;
